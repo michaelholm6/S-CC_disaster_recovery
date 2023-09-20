@@ -12,13 +12,13 @@ public float sensitivity = 5.0f;
     // Start is called before the first frame update
     void Start()
     {
-        
+        transform.eulerAngles += new Vector3(100, 100, 0);
     }
 
     // Update is called once per frame
     void Update()
     {
-        transform.position += transform.forward * Input.GetAxis("Vertical") * speed * Time.deltaTime;
+    transform.position += transform.forward * Input.GetAxis("Vertical") * speed * Time.deltaTime;
     transform.position += transform.right * Input.GetAxis("Horizontal") * speed * Time.deltaTime;
 
     float mouseX = Input.GetAxis("Mouse X");
