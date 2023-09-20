@@ -1,9 +1,149 @@
 fileFormatVersion: 2
 guid: f1ed0f3bffb6642608e385f44d908c7c
 ModelImporter:
-  serializedVersion: 21300
+  serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 15-Inside
+    second: {fileID: 2100000, guid: 1bc2dddca7ce14a4c826241977587a03, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 15-alu
+    second: {fileID: 2100000, guid: 17f3b4f810889ea41a41f07c697b3fd2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 15-bl_glass
+    second: {fileID: 2100000, guid: 5a5366fdb6881064fb0310dee7faf253, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 15-bl_glass_broke
+    second: {fileID: 2100000, guid: 1729bc844f89d1f44b7678da217e944e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 15-bl_led_orange
+    second: {fileID: 2100000, guid: cbae8833ac8ead14ab73dc09b96c0df0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 15-bl_led_red
+    second: {fileID: 2100000, guid: 3a6505b37496cfe4e8b85ee11c8d180a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 15-bl_led_white
+    second: {fileID: 2100000, guid: e893b69ba5c367c4b948567828564af9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 15-bl_mirrror
+    second: {fileID: 2100000, guid: 8fa63a6532f4f0e4bb2727fb2f2081ac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 15-black
+    second: {fileID: 2100000, guid: 4fd22cd19c3d98c429918a281e68c675, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 15-body
+    second: {fileID: 2100000, guid: 87ec9f37a4be5284591fc748503f977e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 15-brake
+    second: {fileID: 2100000, guid: 8a23f3dda218bf84cbc6961e7175a3da, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 15-brake_red
+    second: {fileID: 2100000, guid: 24445e5b2c92da441816e4e762fc72ec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 15-chrome
+    second: {fileID: 2100000, guid: a986ac3a42bf4d6408712abb6778e7d3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 15-dash_uv
+    second: {fileID: 2100000, guid: dc134e57e1204eb4cb97bff883ff5549, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 15-fl_blue_led
+    second: {fileID: 2100000, guid: 2df18584bff7a064a8429afc61734c45, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 15-fl_glass
+    second: {fileID: 2100000, guid: 549386e2628033840ac4ab0e36cf258d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 15-fl_led
+    second: {fileID: 2100000, guid: 05305d0fbc0ff254c8f1cd199b27fbe6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 15-fl_lens
+    second: {fileID: 2100000, guid: 8c001b5d322d58e4589257d1518c4deb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 15-fl_mirror
+    second: {fileID: 2100000, guid: dc80e5789f7eb1e49be04ec717db16b9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 15-fl_orange
+    second: {fileID: 2100000, guid: a2d6b6cf022c70e458b4dfb1f8431e39, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 15-glass
+    second: {fileID: 2100000, guid: 09cf64767300ac7449054536503afba5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 15-glass_black
+    second: {fileID: 2100000, guid: c8c212260c7dc4b478bde3a8bbe454cc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 15-mallRED
+    second: {fileID: 2100000, guid: 5d264462151a55641a7462bc9565287c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 15-mirror
+    second: {fileID: 2100000, guid: f4ec92befc8aae145a945340c3fad2d0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 15-plate
+    second: {fileID: 2100000, guid: 4b882a6d6a1c8a54094221276391bac8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 15-shield
+    second: {fileID: 2100000, guid: 6bdeba56e92895e4d8010c847178e47b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 15-tire
+    second: {fileID: 2100000, guid: a09d4292559231242af12e6b4ffc7357, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 15-tire_side
+    second: {fileID: 2100000, guid: d8f48969d63951846925fb463c08dc9f, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
@@ -67,6 +207,7 @@ ModelImporter:
     secondaryUVMinObjectScale: 1
     secondaryUVPackMargin: 4
     useFileScale: 1
+    strictVertexDataChecks: 0
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
@@ -99,6 +240,7 @@ ModelImporter:
   humanoidOversampling: 1
   avatarSetup: 0
   addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 0
   remapMaterialsIfMaterialImportModeIsNone: 0
   additionalBone: 0
   userData: 

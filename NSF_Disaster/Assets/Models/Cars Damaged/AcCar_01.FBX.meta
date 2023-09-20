@@ -1,9 +1,124 @@
 fileFormatVersion: 2
 guid: 6787559f746be483eb1d4da66ae7f168
 ModelImporter:
-  serializedVersion: 21300
+  serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Crushed
+    second: {fileID: 2100000, guid: 04f66af25e09fb44395445c001e85673, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: p12-Inside
+    second: {fileID: 2100000, guid: def33830538fb374191be3b463be1441, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: p12-alu
+    second: {fileID: 2100000, guid: e1e3d89dc5dd8754fb370701a4fa5b0f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: p12-black
+    second: {fileID: 2100000, guid: a60e975cc837511478bcea4c307be6b0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: p12-body
+    second: {fileID: 2100000, guid: e507d98e6d08fac439099dd6579b14df, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: p12-body_Scratch
+    second: {fileID: 2100000, guid: c02072bf2f9956f4ab85aa3552f79b8d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: p12-brake
+    second: {fileID: 2100000, guid: 995a22440f2f9d74eae4750c44c82eef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: p12-brake_red
+    second: {fileID: 2100000, guid: 48b8512ca1ba6fd4e8a8ed0f7bc60f00, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: p12-chrome
+    second: {fileID: 2100000, guid: 8c8f9a647075ff445ae790875dbc69ef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: p12-fl_led
+    second: {fileID: 2100000, guid: 7d8c6be5b645a5a47b280f721150babe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: p12-glass
+    second: {fileID: 2100000, guid: abd45bf8d27c0264c9d558d949016244, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: p12-glass-black
+    second: {fileID: 2100000, guid: 4f04b4241aa2b65499a94b075ced8112, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: p12-glass-black_Crushed
+    second: {fileID: 2100000, guid: cea29dffc2a42b341b56380dbc8fe84c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: p12-glass_side_Broken
+    second: {fileID: 2100000, guid: a03546e1b656a8d41ab92503a38ced19, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: p12-mirror
+    second: {fileID: 2100000, guid: a4b32369b2e125a4d9f41c224d97138e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: p12-mirror_line
+    second: {fileID: 2100000, guid: 74765b599f971f5478296879f6fee0b4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: p12-orange
+    second: {fileID: 2100000, guid: e18eee56f599f0f45b1ced5e055ecb4d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: p12-orange_rear
+    second: {fileID: 2100000, guid: c51aefeaa2024d94cb61533da1778db9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: p12-red
+    second: {fileID: 2100000, guid: 40a5cb250330ab54f8dfdc879bb75af8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: p12-shield
+    second: {fileID: 2100000, guid: a138ae0fa6c426940870547ee4545b09, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: p12-shield_silver
+    second: {fileID: 2100000, guid: bd2a7669fa3b82749a89f9def8354e06, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: p12-tire
+    second: {fileID: 2100000, guid: 41177fbe9e4671a4bb8ac8127c179b8b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: p12-tire_side
+    second: {fileID: 2100000, guid: a7f6bb3c3c2b7cc438e6e9787c1708f1, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
@@ -67,6 +182,7 @@ ModelImporter:
     secondaryUVMinObjectScale: 1
     secondaryUVPackMargin: 4
     useFileScale: 1
+    strictVertexDataChecks: 0
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
@@ -99,6 +215,7 @@ ModelImporter:
   humanoidOversampling: 1
   avatarSetup: 0
   addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 0
   remapMaterialsIfMaterialImportModeIsNone: 0
   additionalBone: 0
   userData: 

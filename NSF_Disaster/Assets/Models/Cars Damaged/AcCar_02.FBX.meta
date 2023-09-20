@@ -1,9 +1,109 @@
 fileFormatVersion: 2
 guid: eeb28f13be53242abb2879e0c2e3754b
 ModelImporter:
-  serializedVersion: 21300
+  serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: p06_Mirror
+    second: {fileID: 2100000, guid: 4e1267cdc04ffac4da874fe1e6bc5043, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: p13_Body
+    second: {fileID: 2100000, guid: b12007f76cb14a3429643d3b69b744bd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: p13_Body.001
+    second: {fileID: 2100000, guid: f9e4863f294857d4ca3383cb1f26a566, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: p13_FL_glass
+    second: {fileID: 2100000, guid: ede525a098819f04a8deafb4374948b5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: p13_alu
+    second: {fileID: 2100000, guid: 46bbe6d4c8d93dc4ca70e65c5919b5c6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: p13_black
+    second: {fileID: 2100000, guid: 7dfaea2eaf067a945b8434030477d362, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: p13_chrome
+    second: {fileID: 2100000, guid: a7df4bba28a2e3149af47284f55049d5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: p13_dash_uv
+    second: {fileID: 2100000, guid: 1af9d4b8ac64d2543961317f6290194c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: p13_fl_bulb
+    second: {fileID: 2100000, guid: c481fa38919ffb84c8ef92cdd789e655, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: p13_fl_mirror
+    second: {fileID: 2100000, guid: b71a3552dc623d044b02b7454db1e0de, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: p13_fl_orande_led
+    second: {fileID: 2100000, guid: 53503fbf59b81fe45888e8b07737d6b4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: p13_glass
+    second: {fileID: 2100000, guid: e4898934701d65d44ab89309e88f9a2e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: p13_glass_2
+    second: {fileID: 2100000, guid: 815c36222e579764ebfa5e0c61bf854f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: p13_glass_black
+    second: {fileID: 2100000, guid: 510a8016a272bae4294b822d74ac6337, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: p13_inside
+    second: {fileID: 2100000, guid: aa0bde99455aad34ba20259804eeb81b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: p13_red
+    second: {fileID: 2100000, guid: daf2768582634354592081a5efe9ab10, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: p13_red2
+    second: {fileID: 2100000, guid: c94e80c6f874bd1468579383ea6a344f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: p13_shield
+    second: {fileID: 2100000, guid: a601134ebdc876c48b81b29dfe95e3db, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: p13_tire
+    second: {fileID: 2100000, guid: 7869a4ff92e77e042b1fe50ceeb40e60, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: p13_tire_side
+    second: {fileID: 2100000, guid: 25bf915e529703a41b0dee4d64cfed1f, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
@@ -67,6 +167,7 @@ ModelImporter:
     secondaryUVMinObjectScale: 1
     secondaryUVPackMargin: 4
     useFileScale: 1
+    strictVertexDataChecks: 0
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
@@ -99,6 +200,7 @@ ModelImporter:
   humanoidOversampling: 1
   avatarSetup: 0
   addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 0
   remapMaterialsIfMaterialImportModeIsNone: 0
   additionalBone: 0
   userData: 
