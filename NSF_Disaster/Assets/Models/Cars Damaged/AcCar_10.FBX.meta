@@ -1,9 +1,149 @@
 fileFormatVersion: 2
 guid: 29d8e6f2953fc493ea8080ff6e2f2ce8
 ModelImporter:
-  serializedVersion: 21300
+  serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 06-Mirror
+    second: {fileID: 2100000, guid: f5b17a49a48fb7b4b89fcecc3509e4b6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 06-alu
+    second: {fileID: 2100000, guid: 4d40fbb5fcb732844a09501670d82feb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 06-bl_glass
+    second: {fileID: 2100000, guid: eb24449b212254a4095cb48b876ed625, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 06-bl_led_orange
+    second: {fileID: 2100000, guid: c7fd4a08b90c9bd46872c0d6c14a5a81, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 06-bl_led_red
+    second: {fileID: 2100000, guid: 2289ea0729cc2354cbab4b0c9452f939, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 06-bl_mask
+    second: {fileID: 2100000, guid: aa3fd8f99ff160540950a5f657010191, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 06-bl_mirror
+    second: {fileID: 2100000, guid: 82b0806852fbc7142865258e3b6cf68e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 06-bl_mirror_orange
+    second: {fileID: 2100000, guid: e3b01eea276e4c94a884cdabca26ec21, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 06-bl_mirror_white
+    second: {fileID: 2100000, guid: 3cbe0d260ab1d4c4bb631d1ea528f558, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 06-black
+    second: {fileID: 2100000, guid: 53dd0afd1e4634b43829ddbe5e88646d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 06-black1
+    second: {fileID: 2100000, guid: 837a188a85766664891d285e73bc4af8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 06-body
+    second: {fileID: 2100000, guid: 98958cccf415a8b4d9588029adcd5fb9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 06-brake
+    second: {fileID: 2100000, guid: fb2da31682ab2d24fb4d9cd96a6e3c78, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 06-chrome
+    second: {fileID: 2100000, guid: d9c385094e43ee9478bc4ba8dea3d2da, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 06-dash_uv
+    second: {fileID: 2100000, guid: 0b4f1b01196ffbf43ac5ca5224268d4b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 06-fl_led
+    second: {fileID: 2100000, guid: 3510e37809df4fc41bef90f003443db8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 06-fl_mask
+    second: {fileID: 2100000, guid: c3853e897ac76eb46b47968b5d4fcb10, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 06-fl_mirror
+    second: {fileID: 2100000, guid: b9f68760a8527a44095d8231bf358914, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 06-fl_orange
+    second: {fileID: 2100000, guid: 5463a21d7b2772b43aca8aeaa71e2815, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 06-glass
+    second: {fileID: 2100000, guid: 6ab605bfff7392a4ca4bb179589a11f1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 06-glass_black_broke
+    second: {fileID: 2100000, guid: 6b6529e4effe3474e9d87ce33981142c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 06-glass_broke
+    second: {fileID: 2100000, guid: 926680b255efe24489fe32e50c80930c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 06-inside
+    second: {fileID: 2100000, guid: 030ff6f9c81a5e1478e46692ae9ff69f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 06-plate
+    second: {fileID: 2100000, guid: 0606ee688d3539348af6757b377452a2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 06-shield
+    second: {fileID: 2100000, guid: 0a32e49e1475db445940a45240bd26c2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 06-side_orange
+    second: {fileID: 2100000, guid: 1a03f6dd28732744fa127a87f5a311ec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 06-tire
+    second: {fileID: 2100000, guid: f5c5b41e4e05a3243ab08a6db841c0c1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 06-tire_side
+    second: {fileID: 2100000, guid: c40752be589925e47b7a004d0b9a94a5, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
@@ -67,6 +207,7 @@ ModelImporter:
     secondaryUVMinObjectScale: 1
     secondaryUVPackMargin: 4
     useFileScale: 1
+    strictVertexDataChecks: 0
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
@@ -99,6 +240,7 @@ ModelImporter:
   humanoidOversampling: 1
   avatarSetup: 0
   addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 0
   remapMaterialsIfMaterialImportModeIsNone: 0
   additionalBone: 0
   userData: 
