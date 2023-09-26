@@ -5,7 +5,7 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638312899207260906
+      ticks: 638313322329610056
     m_Hash: 1446393865
   m_LockFileStatus:
     m_FilePath: C:/Users/mdholm/Desktop/S-CC_disaster_recovery/NSF_Disaster/Packages/packages-lock.json
@@ -13,7 +13,7 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638312899207260906
+      ticks: 638313322329620054
     m_Hash: 2669560160
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
@@ -386,6 +386,7 @@ m_ResolvedPackages:
     - 3.2.0-pre.3
     - 3.2.0-pre.4
     - 3.2.0-pre.5
+    - 3.2.0-pre.6
     - 4.0.0-pre.1
     - 4.0.0-pre.2
     compatible:
@@ -395,6 +396,7 @@ m_ResolvedPackages:
     - 3.2.0-pre.3
     - 3.2.0-pre.4
     - 3.2.0-pre.5
+    - 3.2.0-pre.6
     - 4.0.0-pre.1
     - 4.0.0-pre.2
     recommended: 3.0.6
