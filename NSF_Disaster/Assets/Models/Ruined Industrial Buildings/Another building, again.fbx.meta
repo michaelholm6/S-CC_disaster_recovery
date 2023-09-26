@@ -7,8 +7,18 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: rdirt.001
+    second: {fileID: 2100000, guid: 9628230f6c6a0914eaaa8d9538463f80, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: rdirt6
     second: {fileID: 2100000, guid: 42df4bb762c1d1b43a12ed3ab2e15864, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rdirt6.002
+    second: {fileID: 2100000, guid: c50667ba45b424f4684d21e8265b1fc7, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -17,8 +27,18 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: rengroundd.003
+    second: {fileID: 2100000, guid: c28764b8e1a79da43904c2bf020e93ab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: rengrounde
     second: {fileID: 2100000, guid: 99131e989d1a51745addd975f454ee23, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rengrounde.003
+    second: {fileID: 2100000, guid: 6a0d737db4c500c488d2d476d880dbfb, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -27,8 +47,18 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: rwall1.001
+    second: {fileID: 2100000, guid: 6a63aae9d1683f54ea427adeb6246472, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: rwall13
     second: {fileID: 2100000, guid: 3ad8b166616b1f94d8787f83dc149313, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rwall13.001
+    second: {fileID: 2100000, guid: 953101724e658034d855fcac1c59a20d, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -52,6 +82,11 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: rwall19.001
+    second: {fileID: 2100000, guid: 20fa5178b84bd604589a283c3d04710a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: rwall20
     second: {fileID: 2100000, guid: bc348f14b2221fb499156cf0b3491638, type: 2}
   - first:
@@ -62,6 +97,11 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: rwall21.001
+    second: {fileID: 2100000, guid: efdb2e3b4b461d44ab10a068671053e6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: rwall22
     second: {fileID: 2100000, guid: cd47ae126ed12554a9ec7deab7ad7382, type: 2}
   - first:
@@ -69,6 +109,16 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: rwall23
     second: {fileID: 2100000, guid: 27e9225d49ed8e64883b18bea393b13a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rwall23.002
+    second: {fileID: 2100000, guid: 6e95b475c474bb749819516d5128a4e1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rwood
+    second: {fileID: 2100000, guid: b12832de708d3c44aa98593dee9b4277, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
